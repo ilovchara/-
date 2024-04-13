@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Font.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 3
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_TextureFormat: 4
+  m_MipCount: 1
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMasterTextureLimit: 0
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 0
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: b28f6c9ac0a182b8885b2d32a57e55878b5e303cab86618abe9e7db8976b3d72ba9875b68f6336499d754c6a9e754b759c72476fc3a587bf92663a54b99877aca37d55748f633648a37b527c9165394ccbb094caa67f5981996e4367a37c547d8152241b956b3f5786592a28a47d557a9d754b6d8456272293673a56875a2e09d0b69cdee8d5c2ffa2795180d1b79ddf9b734962b89674add6bda4e99a6e4081dec6aefda1784e84d2b9a0dbcaae92d0af8861aae3cdb6ffa1774d8bdfcab5f2b69370ac9b714571d1b79be5a57d5592f2e6daffc4a788cec9ab8dd6dfcbb6ef9b6f447cd0b497e8a0744890ddc8b3edd2b9a0dc90633554b79068c484572817a27b5472b99978a7895b2d37a7815a858f6539429f774e70b3916e9994683b5db79674a68d6033409b724963a17a527493683c52b28e6a9f8c603340a47c557d956a3d609c72476eb59270a192673a56bb9c7caaa0795173a7815b7eaf8d6993835628208f6236428254242199704661976e4357825628168d60343e8e663e06
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

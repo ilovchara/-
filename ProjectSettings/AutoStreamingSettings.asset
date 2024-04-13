@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1200 &1
+AutoStreamingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  mSearchMode: 7
+  mCustomSearchFile: 
+  mTextureSearchString: 
+  mMeshSearchString: 
+  mTextures:
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Res/Sprite/Sprite Atlas.spriteatlasv2
+    localFileId: 100100200
+    rtMem: 0
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 1114112
+    width: 0
+    height: 0
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Res/Sprite/Stall.png
+    localFileId: 2800000
+    rtMem: 2547152
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 794
+    height: 802
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Res/Font/Font.png
+    localFileId: 2800000
+    rtMem: 40192
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 628
+    height: 64
+    abSize: 0
+  mAudios:
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/BGM_03.wav
+    localFileId: 8300000
+    rtMem: 213312
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck-01.ogg
+    localFileId: 8300000
+    rtMem: 4544
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck-02.ogg
+    localFileId: 8300000
+    rtMem: 5280
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck-03.ogg
+    localFileId: 8300000
+    rtMem: 4064
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/hit_duck.ogg
+    localFileId: 8300000
+    rtMem: 4928
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/show_scene.ogg
+    localFileId: 8300000
+    rtMem: 17440
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/ready_go.ogg
+    localFileId: 8300000
+    rtMem: 19552
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/shot_gun.ogg
+    localFileId: 8300000
+    rtMem: 2784
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/Show_duck.ogg
+    localFileId: 8300000
+    rtMem: 13184
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/Show_duck_ready.ogg
+    localFileId: 8300000
+    rtMem: 5824
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/duck_goback.ogg
+    localFileId: 8300000
+    rtMem: 5984
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Audio/unhit_duck.ogg
+    localFileId: 8300000
+    rtMem: 24000
+    warningFlag: 0
+    refs:
+    - 0
+  mMeshes: []
+  mAnimations:
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/SuperMode/SuperMode.anim:SuperMode
+    localFileId: 7400000
+    rtMem: 0
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/ReadyGo/ReadyGo.anim:ReadyGo
+    localFileId: 7400000
+    rtMem: 456
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/Duck/Hit.anim:Hit
+    localFileId: 7400000
+    rtMem: 464
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/Env/Enter.anim:Enter
+    localFileId: 7400000
+    rtMem: 1378
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Res/Animation/Gun/Gun.anim:Gun
+    localFileId: 7400000
+    rtMem: 472
+    warningFlag: 0
+    refs:
+    - 0
+  mSharedSceneAssets: []
+  mScenes:
+  - onDemandDownload: 1
+    assetPath: Assets/Scenes/SampleScene.unity
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
+  mConfigCCD:
+    useCCD: 0
+    uosSecret: bc8ee32d6fe8479fb5bc4e4422c0e0b0
+    uosAppid: 90430f2f-afd0-43b8-8847-3e33bfe060b4
+    bucketUuid: 662936f8-c1c9-4442-9f9c-6a77e058c6ca
+    bucketName: WX01
+    badgeName: 1_0
+    ttAppid: 
+    targetPlatfrom: 
